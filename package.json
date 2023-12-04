@@ -1,0 +1,30 @@
+{
+    "name": "cas-pivot",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build && node fix-paths.js",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@sveltejs/vite-plugin-svelte": "^2.4.2",
+        "@types/jquery": "^3.5.27",
+        "autoprefixer": "^10.4.16",
+        "postcss": "^8.4.31",
+        "svelte": "^4.0.5",
+        "tailwindcss": "^3.3.5",
+        "vite": "^4.4.5"
+    },
+    "dependencies": {
+        "@smartdesign/data-access": "^4.12.0",
+        "@smartdesign/group": "^3.7.0",
+        "@smartdesign/styles": "^3.5.0",
+        "@smartdesign/web-api": "^4.19.0",
+        "fs": "^0.0.1-security",
+        "path": "^0.12.7",
+        "pivottable": "^2.23.0",
+        "svelte-pivottable": "^0.2.0"
+    }
+}

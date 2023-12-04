@@ -1,0 +1,653 @@
+[
+    {
+        "OGGUID": "00F9891271284672A464F2C1C83CE64C",
+        "OKEY": "2023-05-07T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 12.5,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "045483F846964FD1ACD4540C401CDCED",
+        "OKEY": "2023-05-02T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 5.18,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Getreidekorn"
+            }
+        ]
+    },
+    {
+        "OGGUID": "149D8C9A625B415E9C6F5F25C6D98F13",
+        "OKEY": "2023-05-26T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 1.96,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            },
+            {
+                "GID_WERT": 22.64,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 2.81,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Getreidekorn"
+            },
+            {
+                "GID_WERT": 4.81,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "1B4427584579414596EA6F6CFA6686EB",
+        "OKEY": "2023-05-06T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 10.4,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "1E837CC38E7D4E99ABB45AB9322E8E90",
+        "OKEY": "2023-05-24T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 4.92,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            },
+            {
+                "GID_WERT": 29.2,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 1.88,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            },
+            {
+                "GID_WERT": 12,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "2033CD7D705D4255AF68288448EB999B",
+        "OKEY": "2023-04-30T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 4.2,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Getreidekorn"
+            },
+            {
+                "GID_WERT": 4,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "2B52420FF9C64A8DA20D80FBAD4C7C90",
+        "OKEY": "2023-05-15T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 10.5,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "3412AFC2D697460AAD08C206C6EFB0D6",
+        "OKEY": "2023-05-19T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 2.1,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            },
+            {
+                "GID_WERT": 20.3,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 1.6,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            },
+            {
+                "GID_WERT": 12,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "529C73BB1B98454F8F6686EAEDEE3026",
+        "OKEY": "2023-05-18T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 20.3,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 1.9,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            },
+            {
+                "GID_WERT": 15,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 1.8,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            }
+        ]
+    },
+    {
+        "OGGUID": "5ADAC7E9859E4C0F9B12EE1DE0695063",
+        "OKEY": "2023-05-20T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 1.8,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            },
+            {
+                "GID_WERT": 2,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            },
+            {
+                "GID_WERT": 22.6,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 12,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "614B5D6FA5384750924E30F4EE1ED435",
+        "OKEY": "2023-05-11T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 12.5,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "6487865702954434B9AC84DC889DFB3D",
+        "OKEY": "2023-05-09T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 12.3,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "7323E6FD0D7D443A906FD269AF6AB56F",
+        "OKEY": "2023-05-17T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 18.4,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 15,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "8443874AA462418C86A2A83BC3D41B4C",
+        "OKEY": "2023-05-30T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 1.65,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            },
+            {
+                "GID_WERT": 6.11,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            },
+            {
+                "GID_WERT": 12,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 26.16,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            }
+        ]
+    },
+    {
+        "OGGUID": "85129114D5724897B1A12F853A131982",
+        "OKEY": "2023-05-25T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 4.92,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            },
+            {
+                "GID_WERT": 22.78,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 2.71,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Getreidekorn"
+            },
+            {
+                "GID_WERT": 1.88,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            }
+        ]
+    },
+    {
+        "OGGUID": "92FB8EFDC36446A59F1676773E5CA8C4",
+        "OKEY": "2023-05-14T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 12.5,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "9A4FD8A5B50D44A8B49F3B7DAF8A6E50",
+        "OKEY": "2023-05-12T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 12.6,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "9ADD698677294AEABDE77C77FA768599",
+        "OKEY": "2023-05-22T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 2.2,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            },
+            {
+                "GID_WERT": 2.5,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            },
+            {
+                "GID_WERT": 12,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 25.3,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            }
+        ]
+    },
+    {
+        "OGGUID": "9AE2B2F1557146E8B39A70B3B9196092",
+        "OKEY": "2023-05-29T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 3.87,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            },
+            {
+                "GID_WERT": 27.43,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 2.77,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Getreidekorn"
+            },
+            {
+                "GID_WERT": 12,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 1.85,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            }
+        ]
+    },
+    {
+        "OGGUID": "A463BC92640E40799B5D47B7EBA3FD07",
+        "OKEY": "2023-05-13T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 12.8,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "A78E2D5C93C04F54B205F89A991C10BB",
+        "OKEY": "2023-05-28T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 21.5,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 7,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 2.65,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Getreidekorn"
+            },
+            {
+                "GID_WERT": 2.21,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            }
+        ]
+    },
+    {
+        "OGGUID": "A7DFE191E379493C935B103C6CA6CBBB",
+        "OKEY": "2023-05-08T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 12,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "A8BB348C1243468D9C6456B3E34195C0",
+        "OKEY": "2023-05-05T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 6.48,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Getreidekorn"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "B467A1222E684EB8A8C9918EBEF18D8B",
+        "OKEY": "2023-05-04T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 5.52,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Getreidekorn"
+            }
+        ]
+    },
+    {
+        "OGGUID": "BBD98F109C144D8CA8A6C25AA46AA34D",
+        "OKEY": "2023-05-23T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 29.78,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 4.2,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            },
+            {
+                "GID_WERT": 2.02,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            },
+            {
+                "GID_WERT": 13,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "C0932488B96542CFB2B2281A261EA78A",
+        "OKEY": "2023-05-01T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 1.38,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Getreidekorn"
+            },
+            {
+                "GID_WERT": 15,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            }
+        ]
+    },
+    {
+        "OGGUID": "CA6D1A70B5494E4A95680963048E098B",
+        "OKEY": "2023-05-27T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 2.37,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Getreidekorn"
+            },
+            {
+                "GID_WERT": 2.21,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            },
+            {
+                "GID_WERT": 22.85,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 4.58,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            }
+        ]
+    },
+    {
+        "OGGUID": "D4BAE33899A746AFB6C9982B918FA308",
+        "OKEY": "2023-05-21T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 12,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 17.5,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            },
+            {
+                "GID_WERT": 1.9,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Hühnertrockenkot"
+            },
+            {
+                "GID_WERT": 1.75,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Geflügelmist"
+            }
+        ]
+    },
+    {
+        "OGGUID": "E439B10B9C604F1DA87F746F71996E6A",
+        "OKEY": "2023-05-03T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 4.52,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Getreidekorn"
+            }
+        ]
+    },
+    {
+        "OGGUID": "F57500532BBA42769D12C0A4BE4E6ABE",
+        "OKEY": "2023-05-10T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 10,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 12.8,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            }
+        ]
+    },
+    {
+        "OGGUID": "FBED2A11468F472F9575FE13F83EA819",
+        "OKEY": "2023-05-16T22:00:00.000Z",
+        "messungen": [
+            {
+                "GID_WERT": 15,
+                "GID_EINHEIT": "m³",
+                "KEYWORD": "Rindergülle [9% TS]"
+            },
+            {
+                "GID_WERT": 12.5,
+                "GID_EINHEIT": "t",
+                "KEYWORD": "Maissilage"
+            }
+        ]
+    }
+]
